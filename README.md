@@ -1,5 +1,5 @@
 ### 🎯**OVERVIEW**
-**This is just a task given in class. I have a little biography here
+**This is just a task given in class. I have a little biography here**
 ---
 
 ## 🛠️** TOOLS USED**
